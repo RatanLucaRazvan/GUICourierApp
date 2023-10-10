@@ -1,0 +1,5 @@
+C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/CMakeFiles/Practical_exam.dir
+C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/CMakeFiles/Practical_exam_autogen_timestamp_deps.dir
+C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/CMakeFiles/Practical_exam_autogen.dir

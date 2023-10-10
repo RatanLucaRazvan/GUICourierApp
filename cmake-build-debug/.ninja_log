@@ -1,0 +1,31 @@
+# ninja log v5
+19	300	7096564032887983	Practical_exam_autogen/timestamp	1bb7bf404145e20b
+19	300	7096564032887983	Practical_exam_autogen/mocs_compilation.cpp	1bb7bf404145e20b
+19	300	7096564032887983	D:/UBB/OOP/Practical_exam/cmake-build-debug/Practical_exam_autogen/timestamp	1bb7bf404145e20b
+19	300	7096564032887983	D:/UBB/OOP/Practical_exam/cmake-build-debug/Practical_exam_autogen/mocs_compilation.cpp	1bb7bf404145e20b
+1230	2248	7096492282711968	CMakeFiles/Practical_exam.dir/Observer.cpp.obj	5fe350c57531fc44
+1663	3007	7096480983140791	CMakeFiles/Practical_exam.dir/Utils.cpp.obj	2b477925a2034bd1
+299	1225	7096518669581723	CMakeFiles/Practical_exam.dir/Courier.cpp.obj	c41a7fac28fb1ebc
+1415	6244	7096538137302356	CMakeFiles/Practical_exam.dir/main.cpp.obj	e7c5bec881d8ba23
+1438	2763	7096538102507449	CMakeFiles/Practical_exam.dir/Package.cpp.obj	a56c45a49166d5f5
+1425	6105	7096538135927651	CMakeFiles/Practical_exam.dir/Practical_exam_autogen/mocs_compilation.cpp.obj	990fd389e5aba67a
+1451	2959	7096538104470124	CMakeFiles/Practical_exam.dir/PackageServer.cpp.obj	faf45c032eba9ad1
+323	4395	7096564073832139	CMakeFiles/Practical_exam.dir/courierwindow.cpp.obj	9653c40b0ea957e4
+392	4833	7096540402560694	CMakeFiles/Practical_exam.dir/companywindow.cpp.obj	9137dc9e2dce2b09
+1478	6438	7096538139266648	CMakeFiles/Practical_exam.dir/Windows.cpp.obj	fa14a14052f8e1e2
+4396	5403	7096564080886017	Practical_exam.exe	76ad9c4e1d7a9b74
+15	1342	7186624432890689	Practical_exam_autogen/timestamp	bfa8c9e76b2e41a2
+15	1342	7186624432890689	Practical_exam_autogen/mocs_compilation.cpp	bfa8c9e76b2e41a2
+15	1342	7186624432890689	C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/Practical_exam_autogen/timestamp	bfa8c9e76b2e41a2
+15	1342	7186624432890689	C:/Users/Ratan Luca/Documents/GitHub/GUICourierApp/cmake-build-debug/Practical_exam_autogen/mocs_compilation.cpp	bfa8c9e76b2e41a2
+1377	2533	7186624446009305	CMakeFiles/Practical_exam.dir/Observer.cpp.obj	b97900881a746b87
+1389	2599	7186624446659134	CMakeFiles/Practical_exam.dir/Package.cpp.obj	b35b7585a8478848
+1414	2657	7186624447245748	CMakeFiles/Practical_exam.dir/Utils.cpp.obj	da816b0d4a02ba74
+1365	2692	7186624447592858	CMakeFiles/Practical_exam.dir/Courier.cpp.obj	d707f507cf761473
+1442	2803	7186624448702814	CMakeFiles/Practical_exam.dir/PackageServer.cpp.obj	72e570a61f22a9c
+1343	5620	7186624476882647	CMakeFiles/Practical_exam.dir/Practical_exam_autogen/mocs_compilation.cpp.obj	4c8a36a7fea4b3f3
+1353	5834	7186624479006891	CMakeFiles/Practical_exam.dir/main.cpp.obj	13cc4c3379ae1dfd
+1471	6050	7186624481170480	CMakeFiles/Practical_exam.dir/Windows.cpp.obj	82ad70e789dcf353
+1401	6650	7186624487164529	CMakeFiles/Practical_exam.dir/courierwindow.cpp.obj	4e26dd2d2f806e5c
+1427	6773	7186624488412479	CMakeFiles/Practical_exam.dir/companywindow.cpp.obj	260895842c178a3
+6773	7745	7186624494536136	Practical_exam.exe	73ce2571eae6d593

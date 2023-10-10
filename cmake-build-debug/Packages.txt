@@ -1,0 +1,12 @@
+Mara Ognean,Caisilor,2,11.000000,5.000000,false
+Mircea Ratan,Castanilor,5,4.000000,3.000000,false
+Dorian Pop,Cazaban,4,4.000000,4.000000,false
+Denis Pop,Teodor Mihali,59,5.000000,5.000000,false
+Mario Sima,Ciresilor,100,2.000000,2.000000,false
+Mara,Teodor Mihali,4,100.000000,100.000000,false
+Iulian,Teodor Mihali,6,45.000000,45.000000,false
+Luca Ratan,Ciresilor,10,40.000000,40.000000,false
+Luca Pescan,Ciresilor,2,50.000000,50.000000,false
+Luca Pescan,Castanilor,2,50.000000,50.000000,false
+Maria Pescan,Caisilor,2,20.000000,20.000000,false
+Pisto,Cazaban,3,3.000000,3.000000,false

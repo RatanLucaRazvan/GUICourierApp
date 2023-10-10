@@ -1,0 +1,3 @@
+Andrei,Caisilor,Cazaban,2,3,12
+Marcel,Castanilor,Cernavoda,1,2,10
+Caius,Ciresilor,Creanga,Teodor Mihali,1,1,8

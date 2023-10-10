@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>CourierWindow</class>
+ <widget class="QWidget" name="CourierWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>CourierWindow</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QListWidget" name="packagesList"/>
+   </item>
+   <item>
+    <widget class="QPushButton" name="deliverButton">
+     <property name="text">
+      <string>Deliver</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>deliverButton</sender>
+   <signal>clicked()</signal>
+   <receiver>CourierWindow</receiver>
+   <slot>deliverPackage()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>207</x>
+     <y>281</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>131</x>
+     <y>252</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <slot>deliverPackage()</slot>
+ </slots>
+</ui>
